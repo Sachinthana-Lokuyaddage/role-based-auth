@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xT7dVaQbUOUAJ7vJbHlP4Qe3Vd6FwO0DX4JxOh+HbN8=",
+  "Source": "WebApiWithRoleAuthentication",
+  "BasePath": "_content/WebApiWithRoleAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
